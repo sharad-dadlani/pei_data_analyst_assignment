@@ -13,7 +13,7 @@ where Amount <0
 
 Output : No Data (Data Accuracy and Reliability )
 
--- b) Check for age<0 or age >100  (Data Accuracy)
+-- b) Check for age<0 or age >90  (Data Accuracy)
 
 Select *
  	FROM
